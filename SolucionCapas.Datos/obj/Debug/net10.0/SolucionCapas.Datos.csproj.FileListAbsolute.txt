@@ -1,0 +1,16 @@
+C:\Users\Mica\source\repos\Agenda3\SolucionCapas.Datos\bin\Debug\net10.0\SolucionCapas.Datos.deps.json
+C:\Users\Mica\source\repos\Agenda3\SolucionCapas.Datos\bin\Debug\net10.0\SolucionCapas.Datos.dll
+C:\Users\Mica\source\repos\Agenda3\SolucionCapas.Datos\bin\Debug\net10.0\SolucionCapas.Datos.pdb
+C:\Users\Mica\source\repos\Agenda3\SolucionCapas.Datos\bin\Debug\net10.0\Agenda3.Entidades.dll
+C:\Users\Mica\source\repos\Agenda3\SolucionCapas.Datos\bin\Debug\net10.0\Agenda3.Entidades.pdb
+C:\Users\Mica\source\repos\Agenda3\SolucionCapas.Datos\obj\Debug\net10.0\SolucionCapas.Datos.csproj.AssemblyReference.cache
+C:\Users\Mica\source\repos\Agenda3\SolucionCapas.Datos\obj\Debug\net10.0\SolucionCapas.Datos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mica\source\repos\Agenda3\SolucionCapas.Datos\obj\Debug\net10.0\SolucionCapas.Datos.AssemblyInfoInputs.cache
+C:\Users\Mica\source\repos\Agenda3\SolucionCapas.Datos\obj\Debug\net10.0\SolucionCapas.Datos.AssemblyInfo.cs
+C:\Users\Mica\source\repos\Agenda3\SolucionCapas.Datos\obj\Debug\net10.0\SolucionCapas.Datos.csproj.CoreCompileInputs.cache
+C:\Users\Mica\source\repos\Agenda3\SolucionCapas.Datos\obj\Debug\net10.0\SolucionCapas.Datos.sourcelink.json
+C:\Users\Mica\source\repos\Agenda3\SolucionCapas.Datos\obj\Debug\net10.0\Solucion.16E723CE.Up2Date
+C:\Users\Mica\source\repos\Agenda3\SolucionCapas.Datos\obj\Debug\net10.0\SolucionCapas.Datos.dll
+C:\Users\Mica\source\repos\Agenda3\SolucionCapas.Datos\obj\Debug\net10.0\refint\SolucionCapas.Datos.dll
+C:\Users\Mica\source\repos\Agenda3\SolucionCapas.Datos\obj\Debug\net10.0\SolucionCapas.Datos.pdb
+C:\Users\Mica\source\repos\Agenda3\SolucionCapas.Datos\obj\Debug\net10.0\ref\SolucionCapas.Datos.dll
