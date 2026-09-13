@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="Agenda3.Entidades/Agenda3.Entidades.csproj" Id="9d65ddd4-8315-4d7a-9682-0f3a2bdfa97a" />
+  <Project Path="SolucionCapas.Datos/SolucionCapas.Datos.csproj" />
+  <Project Path="SolucionCapas.Negocio/SolucionCapas.Negocio.csproj" />
+  <Project Path="SolucionCapas.Presentacion/SolucionCapas.Presentacion.csproj" />
+</Solution>
